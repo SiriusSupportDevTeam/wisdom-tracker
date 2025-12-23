@@ -1,0 +1,25 @@
+\# ==================================================  
+\# WEB FILTER DOMAIN LIST  
+\# One domain per line  
+\# Lines starting with # are ignored  
+\# ==================================================
+
+\# Major gambling sites  
+bet365.com  
+paddypower.com  
+williamhill.com  
+888casino.com  
+888sport.com  
+bwin.com  
+betfair.com  
+ladbrokes.com  
+unibet.com  
+casumo.com  
+pokerstars.com  
+partypoker.com
+
+\# Crypto casinos  
+stake.com  
+roobet.com
+
+\# Add more domains below

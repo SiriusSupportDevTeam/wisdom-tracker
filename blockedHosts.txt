@@ -1,3 +1,4 @@
+# BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
 #UPDATED AT 2026-08-14
 
@@ -342,6 +343,8 @@ toDO
 # SOCIAL MEDIA
 # ============================================================
 
+0.0.0.0 discord.com
+0.0.0.0 telegram.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.net
 0.0.0.0 tiktok.com
@@ -440,3 +443,4 @@ toDO
 0.0.0.0 nitter.net
 0.0.0.0 twiiit.com
 0.0.0.0 kwai.com
+# END WISDOM_TRACKER

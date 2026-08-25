@@ -1,0 +1,97 @@
+name: Update Security Blocklist
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'  # Every Monday at 03:00 UTC
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-blocklist:
+    name: Fetch URLhaus and update blockedHosts.txt
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download URLhaus hostfile
+        run: |
+          curl -fsSL \
+            "https://urlhaus-api.abuse.ch/v2/files/exports/${{ secrets.URLHAUS_API_KEY }}/hostfile.txt" \
+            -o /tmp/urlhaus.txt
+
+      - name: Build updated blockedHosts.txt
+        run: |
+          TODAY=$(date -u +"%Y-%m-%d")
+
+          # Extract domains from URLhaus file (skip comment lines, convert 127.0.0.1 → 0.0.0.0)
+          grep -v '^#' /tmp/urlhaus.txt \
+            | grep -v '^[[:space:]]*$' \
+            | sed 's|^127\.0\.0\.1[[:space:]]*|0.0.0.0 |' \
+            | sort -u \
+            > /tmp/security-entries.txt
+
+          COUNT=$(wc -l < /tmp/security-entries.txt | tr -d ' ')
+          echo "Entries to add: $COUNT"
+
+          # Rebuild the file:
+          # 1. Header (lines before the SECURITY section content)
+          # 2. Fresh SECURITY entries from URLhaus
+          # 3. Everything from the PORN section onwards
+          awk '
+            /^# BEGIN WISDOM_TRACKER/ { print; next }
+            /^#SIRIUS-SUPPORT/        { print; next }
+            /^#UPDATED AT /           { print "#UPDATED AT '"$TODAY"'"; next }
+            /^# ===.*SECURITY/        { in_security_header=1; print; next }
+            /^# Malware/              { print; next }
+            /^# ===/                  { if (in_security_header) { print; in_security_entry=1; in_security_header=0; next } }
+            in_security_entry && /^# ===.*PORN/ { in_security_entry=0; print_porn=1 }
+            in_security_entry         { next }
+            print_porn || !in_security_header { print }
+          ' blockedHosts.txt > /tmp/rebuilt.txt
+
+          # Simpler and more reliable approach: split on section markers
+          python3 - <<'PYEOF'
+          import re, datetime
+
+          with open('blockedHosts.txt', 'r') as f:
+              content = f.read()
+
+          with open('/tmp/security-entries.txt', 'r') as f:
+              new_entries = f.read().strip()
+
+          today = datetime.datetime.utcnow().strftime('%Y-%m-%d')
+
+          # Update timestamp
+          content = re.sub(r'#UPDATED AT .*', f'#UPDATED AT {today}', content)
+
+          # Replace everything between the SECURITY section header and the PORN section header
+          content = re.sub(
+              r'(# Malware.*?# ={10,}\n)(.*?)(# ={10,}\n# PORN)',
+              lambda m: m.group(1) + '\n' + new_entries + '\n\n' + m.group(3),
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('blockedHosts.txt', 'w') as f:
+              f.write(content)
+
+          print(f"Updated blockedHosts.txt with {len(new_entries.splitlines())} security entries")
+          PYEOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet blockedHosts.txt; then
+            echo "No changes to blockedHosts.txt — skipping commit."
+            exit 0
+          fi
+
+          COUNT=$(grep -v '^#' /tmp/security-entries.txt | grep -v '^[[:space:]]*$' | wc -l | tr -d ' ')
+          git add blockedHosts.txt
+          git commit -m "chore: update security blocklist from URLhaus ($COUNT entries) [$(date -u +%Y-%m-%d)]"
+          git push

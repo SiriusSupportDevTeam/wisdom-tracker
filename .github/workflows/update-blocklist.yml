@@ -2,7 +2,7 @@ name: Update Security Blocklist
 
 on:
   schedule:
-    - cron: '0 3 * * 1'  # Every Monday at 03:00 UTC
+    - cron: '7 3 * * *'   # Every day at 03:07 UTC
   workflow_dispatch:       # Allow manual trigger
 
 permissions:
@@ -69,8 +69,13 @@ jobs:
 
           # Replace everything between the SECURITY section header and the PORN section header
           content = re.sub(
-              r'(# Malware.*?# ={10,}\n)(.*?)(# ={10,}\n# PORN)',
-              lambda m: m.group(1) + '\n' + new_entries + '\n\n' + m.group(3),
+              r'(# Malware.*?# ={10,}
+)(.*?)(# ={10,}
+# PORN)',
+              lambda m: m.group(1) + '
+' + new_entries + '
+
+' + m.group(3),
               content,
               flags=re.DOTALL
           )

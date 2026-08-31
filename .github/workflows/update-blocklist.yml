@@ -95,3 +95,9 @@ jobs:
           git add blockedHosts.txt
           git commit -m "chore: update security blocklist from URLhaus ($COUNT entries) [$(date -u +%Y-%m-%d)]"
           git push
+      - name: Notify Rocket.Chat on failure
+        if: failure()
+        run: |
+          curl -s -X POST "${{ secrets.ROCKET_WEBHOOK_URL }}" \
+            -H 'Content-Type: application/json' \
+            -d "{\"text\": \"❌ *Update Security Blocklist* failed!\n*Repo:* SiriusSupportDevTeam/wisdom-tracker\n*Run:* ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"

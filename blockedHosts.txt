@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-01
+#UPDATED AT 2026-09-02
 
 # ============================================================
 # SECURITY
@@ -15,6 +15,7 @@
 0.0.0.0 1h.xeteloi4.ru
 0.0.0.0 3.zhzy999.net
 0.0.0.0 3.zhzy999.net3.zhzy999.net
+0.0.0.0 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 addurltogoogle.com
@@ -35,8 +36,11 @@
 0.0.0.0 atasapka.com.tr
 0.0.0.0 atom.freehosting.dev
 0.0.0.0 audicontadores.com
+0.0.0.0 awarenessexhibition.com
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+0.0.0.0 beacon.ltdglobal.co.uk
+0.0.0.0 beak.in
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
@@ -45,17 +49,16 @@
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
+0.0.0.0 bvaco.com
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 cheatclients.com
@@ -73,17 +76,18 @@
 0.0.0.0 coolairesgroup.com
 0.0.0.0 coralasargetia.ro
 0.0.0.0 cpc188.day
+0.0.0.0 cpofficial.com
 0.0.0.0 crazy2cdn.com
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 damiancollier.com
-0.0.0.0 dasgems.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcrun.co.uk
 0.0.0.0 dcwblida.dz
 0.0.0.0 deagroup-ks.com
+0.0.0.0 delii.icu
 0.0.0.0 deliverymailreport.co.za
 0.0.0.0 delp-heizungsbau.de
 0.0.0.0 dexios.co.za
@@ -99,7 +103,6 @@
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download-sougou.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
@@ -113,7 +116,6 @@
 0.0.0.0 duct-master.com
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
 0.0.0.0 endpoint.project0.cc
@@ -125,6 +127,7 @@
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
+0.0.0.0 flint-32.com
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
 0.0.0.0 fukt.link
@@ -136,11 +139,8 @@
 0.0.0.0 gd.ozzhlb.net
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
-0.0.0.0 gestroom.it
-0.0.0.0 ghanioilandgas.com
-0.0.0.0 github-software.su
-0.0.0.0 gla.ge
 0.0.0.0 globalbank.us
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 goododeqvip.com
 0.0.0.0 grantexx.com
 0.0.0.0 grupomcperu.com
@@ -150,15 +150,14 @@
 0.0.0.0 hindustancargologistic.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 hobobot.net
 0.0.0.0 hotelmate.asia
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 ikincielesyaciankara.com.tr
 0.0.0.0 impectorinternational.com
-0.0.0.0 indusenterprises.co
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
@@ -166,7 +165,6 @@
 0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
-0.0.0.0 jlwz.cn
 0.0.0.0 joyeriatauro.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 kenwillzltd.com
@@ -175,10 +173,8 @@
 0.0.0.0 kits.frog.tw
 0.0.0.0 kokorostore.it
 0.0.0.0 konsor.ru
-0.0.0.0 kramersmarionnettes.com
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
-0.0.0.0 leanmaestro.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
@@ -189,19 +185,21 @@
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
+0.0.0.0 mrsweaterltd.com
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
-0.0.0.0 mundocarnes.cl
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 muriaspetin.es
 0.0.0.0 mx9x.com
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
+0.0.0.0 ngyusa.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
@@ -213,7 +211,10 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
+0.0.0.0 pfatrivandrum.org
 0.0.0.0 pic.li
+0.0.0.0 pingu.business
+0.0.0.0 pingu.ltd
 0.0.0.0 planetariumobil.ro
 0.0.0.0 plutotvshow.biz
 0.0.0.0 porterneuman.mx
@@ -222,6 +223,7 @@
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 promnet.jp
+0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -245,8 +247,10 @@
 0.0.0.0 rxquickpay.com
 0.0.0.0 safeifm.com
 0.0.0.0 safeuploadz.com
+0.0.0.0 sakuraloyalty.com
 0.0.0.0 sales.ifree.page
 0.0.0.0 samiksha.com.sg
+0.0.0.0 satinmaple4.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
@@ -260,18 +264,17 @@
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
+0.0.0.0 siaasesoria.com.mx
 0.0.0.0 signageinsignia.co.za
 0.0.0.0 sk-comtel.com
 0.0.0.0 smartermail.host
 0.0.0.0 sochibeer.ru
 0.0.0.0 soft.110route.com
 0.0.0.0 solar-sanat.net
-0.0.0.0 somostask.co
 0.0.0.0 spgint.com
 0.0.0.0 sportssurgeon.org.pk
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
-0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 streammobs.com
 0.0.0.0 studiogioeli.it
@@ -297,12 +300,13 @@
 0.0.0.0 tiacreation.club
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
+0.0.0.0 topmark-tuitioncentre.co.uk
 0.0.0.0 tpp.om-stock.com
 0.0.0.0 tr.zhzy999.net
+0.0.0.0 traderhype.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
-0.0.0.0 twu-hwt.org
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -338,7 +342,6 @@
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.first-security-verden.de
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
@@ -349,13 +352,14 @@
 0.0.0.0 www.knockknock.top
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.movy.bz
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.nccommunication.be
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.notbak.com
 0.0.0.0 www.ojang.pe.kr
-0.0.0.0 www.pakstones.com
+0.0.0.0 www.pingu.surf
 0.0.0.0 www.pointtohealth.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.ryzhe.com

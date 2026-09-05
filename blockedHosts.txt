@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-04
+#UPDATED AT 2026-09-05
 
 # ============================================================
 # SECURITY
@@ -17,6 +17,7 @@
 0.0.0.0 3.zhzy999.net
 0.0.0.0 3.zhzy999.net3.zhzy999.net
 0.0.0.0 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
+0.0.0.0 6ak-tehnik.si
 0.0.0.0 999.34c9f78b4ef541baac4a6e84d4f832a7.lol
 0.0.0.0 PEDIANOW.ORG
 0.0.0.0 abonent-app.ru
@@ -45,7 +46,7 @@
 0.0.0.0 b2b.jewmailer.net
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-0.0.0.0 benotrobot.online
+0.0.0.0 beak.in
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
@@ -55,7 +56,6 @@
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bridgeroad.maverickpreviews.com
-0.0.0.0 brightroseax.blog
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
 0.0.0.0 bvaco.com
@@ -65,17 +65,18 @@
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 ccoffice.site
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
-0.0.0.0 cheatclients.com
 0.0.0.0 checkfivem.com
 0.0.0.0 chiptune.com
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud.pearlpeel.com
+0.0.0.0 cloudeliveryenterprise.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
 0.0.0.0 co-emas.com
@@ -99,6 +100,7 @@
 0.0.0.0 deagroup-ks.com
 0.0.0.0 deliverymailreport.co.za
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 deoriatimes.com
 0.0.0.0 dexios.co.za
 0.0.0.0 dezcom.com
 0.0.0.0 dfd.zhzy999.net
@@ -120,6 +122,7 @@
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
 0.0.0.0 download.suxiazai.com
+0.0.0.0 download.tfyxzai.com
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 dreemix.com
 0.0.0.0 duct-master.com
@@ -127,7 +130,6 @@
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
-0.0.0.0 emeraldstonegc.blog
 0.0.0.0 en.taichuan.com
 0.0.0.0 endpoint.project0.cc
 0.0.0.0 epanpano.com
@@ -136,6 +138,8 @@
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 fern-plume.com
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
+0.0.0.0 filecon.sbs
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
@@ -148,6 +152,7 @@
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
+0.0.0.0 gestroom.it
 0.0.0.0 globalbank.us
 0.0.0.0 grantexx.com
 0.0.0.0 grupomcperu.com
@@ -159,6 +164,8 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
+0.0.0.0 i-love-git.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
@@ -174,10 +181,12 @@
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
 0.0.0.0 joyeriatauro.com
+0.0.0.0 jswen.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
+0.0.0.0 kis.marketing
 0.0.0.0 kits.frog.tw
 0.0.0.0 kokorostore.it
 0.0.0.0 konsor.ru
@@ -192,9 +201,8 @@
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
-0.0.0.0 mail.brightroseax.blog
-0.0.0.0 mail.emeraldstonegc.blog
-0.0.0.0 metrics.gocloudmaps.com
+0.0.0.0 mailify.cc
+0.0.0.0 malupieng.com.br
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
@@ -202,6 +210,7 @@
 0.0.0.0 mogimall.com
 0.0.0.0 mrsweaterltd.com
 0.0.0.0 muaklekcoop.com
+0.0.0.0 muledo.com
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mx9x.com
 0.0.0.0 mysura.it
@@ -209,6 +218,7 @@
 0.0.0.0 ncxps.com
 0.0.0.0 node-slate.com
 0.0.0.0 noithaticon.vn
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odinclient.dev
 0.0.0.0 ojang.pe.kr
@@ -264,11 +274,11 @@
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 seismophonic.com
 0.0.0.0 semencepourlavie.org
+0.0.0.0 seobandung.site
 0.0.0.0 separadordecc.com
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
-0.0.0.0 shreesaiseva.org
 0.0.0.0 siaasesoria.com.mx
 0.0.0.0 signageinsignia.co.za
 0.0.0.0 sk-comtel.com
@@ -286,15 +296,14 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
-0.0.0.0 swiftfusion.tech
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
 0.0.0.0 tarkioweb.com
-0.0.0.0 taskerempresascol.co
 0.0.0.0 taunahi.st
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
+0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 theholidayroads.com
@@ -320,7 +329,6 @@
 0.0.0.0 update.cg100iii.com
 0.0.0.0 us.wind0ws.net
 0.0.0.0 vcc-library.uk
-0.0.0.0 verification-process.com
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -332,6 +340,7 @@
 0.0.0.0 w.zhzy999.net
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
+0.0.0.0 wind.ntlsmartfull.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wittenhorst.eu
 0.0.0.0 wordtax.ink

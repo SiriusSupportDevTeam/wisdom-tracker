@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-16
+#UPDATED AT 2026-09-17
 
 # ============================================================
 # SECURITY
@@ -14,11 +14,10 @@
 0.0.0.0 198348.gl
 0.0.0.0 22qq-client.com
 0.0.0.0 4eclient.com
-0.0.0.0 PEDIANOW.ORG
 0.0.0.0 abilityindisabilityindia.org
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
-0.0.0.0 acrobat.proposal.name.ng
+0.0.0.0 addurltogoogle.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aftelecom.com.br
@@ -30,10 +29,9 @@
 0.0.0.0 alphapicaficagency.com
 0.0.0.0 alphasaling.site
 0.0.0.0 alternativas.ru
-0.0.0.0 angefundsu.sbs
+0.0.0.0 amaamn.com
 0.0.0.0 api.wipmania.net
 0.0.0.0 app.appzcvb.com
-0.0.0.0 archivoscrosoft.com
 0.0.0.0 areyouready.co.za
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
@@ -48,7 +46,6 @@
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
-0.0.0.0 botcheck-cf.top
 0.0.0.0 breezeclient.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
@@ -60,15 +57,16 @@
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
 0.0.0.0 cheetoclient.com
+0.0.0.0 chiptune.com
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
+0.0.0.0 cloud-sharing.com
 0.0.0.0 cloud.pearlpeel.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
@@ -95,10 +93,10 @@
 0.0.0.0 delp-heizungsbau.de
 0.0.0.0 dexios.co.za
 0.0.0.0 dezcom.com
-0.0.0.0 digitalisonesapps.com
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dnswwt.club
@@ -117,6 +115,7 @@
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
 0.0.0.0 download.suxiazai.com
+0.0.0.0 dreamwatchevent.com
 0.0.0.0 duct-master.com
 0.0.0.0 dulkir-mod.com
 0.0.0.0 dynga.pl
@@ -145,6 +144,7 @@
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gamblerigmod.org
+0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 get.acitvated.win
@@ -170,30 +170,30 @@
 0.0.0.0 get.sctivated.win
 0.0.0.0 ghostclient.net
 0.0.0.0 globalbank.us
+0.0.0.0 gobiotechpestcontrol.com
+0.0.0.0 gpsmarocpro.com
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
 0.0.0.0 hasalltalent.com
-0.0.0.0 hashedsolver.icu
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
-0.0.0.0 images.fishing-tools.cyou
 0.0.0.0 impectorinternational.com
-0.0.0.0 indonesias.me
 0.0.0.0 indusenterprises.co
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
 0.0.0.0 iyn4ce9o.casero.store
+0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
-0.0.0.0 jokely.icu
 0.0.0.0 jswen.com
 0.0.0.0 k3p8wz1n.bvcbx.store
 0.0.0.0 kavacanada.ca
@@ -202,6 +202,7 @@
 0.0.0.0 kimyen.net
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kryptonclient.vip
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lindnerelektroanlagen.de
@@ -220,9 +221,6 @@
 0.0.0.0 massgravel.dev
 0.0.0.0 meteorclientplus.com
 0.0.0.0 meteorclients.com
-0.0.0.0 meteorrejects.net
-0.0.0.0 metrics.gocloudmaps.com
-0.0.0.0 minpop.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
@@ -241,6 +239,8 @@
 0.0.0.0 nova-client.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
+0.0.0.0 odinclient.com
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
@@ -254,16 +254,16 @@
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
-0.0.0.0 pic.li
 0.0.0.0 planetariumobil.ro
+0.0.0.0 polarclient.net
 0.0.0.0 polinexclient.org
 0.0.0.0 portal.onepansol.site
 0.0.0.0 postelnini.mk
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestige-client.org
-0.0.0.0 princegenesis.com
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 q7k2m9xb.us-theeloncode.com
@@ -303,13 +303,15 @@
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigmaclient.net
 0.0.0.0 signageinsignia.co.za
+0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
+0.0.0.0 skyblock-addons.com
 0.0.0.0 skyblock-extras.org
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
 0.0.0.0 speddebug.com
+0.0.0.0 spgint.com
 0.0.0.0 srv.conti.pk
-0.0.0.0 statementreaderdownload.com
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
@@ -319,8 +321,6 @@
 0.0.0.0 surun.info
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
-0.0.0.0 swiftfusion.tech
-0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
@@ -340,16 +340,18 @@
 0.0.0.0 top8onlinegame.com
 0.0.0.0 topmark-tuitioncentre.co.uk
 0.0.0.0 tpp.om-stock.com
+0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
-0.0.0.0 tripfarely.com
-0.0.0.0 trouserstreak.net
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
+0.0.0.0 twu-hwt.org
+0.0.0.0 uasputnik.com
 0.0.0.0 uno-play.online
 0.0.0.0 uno-play.xyz
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
+0.0.0.0 userhotels.org
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -363,7 +365,6 @@
 0.0.0.0 wielixclient.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 windowsdiagnostics.st
-0.0.0.0 wir.consultingics.com
 0.0.0.0 wittenhorst.eu
 0.0.0.0 wizzyaddon.com
 0.0.0.0 workerstats.net
@@ -375,6 +376,7 @@
 0.0.0.0 www.backupallfresh2030.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.bluehorizons.travel
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.controliumbt.com
@@ -385,13 +387,12 @@
 0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
-0.0.0.0 www.kammwv.cc
 0.0.0.0 www.kenwillzltd.com
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
+0.0.0.0 www.kryptonclient.lol
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com

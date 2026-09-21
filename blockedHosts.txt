@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-20
+#UPDATED AT 2026-09-21
 
 # ============================================================
 # SECURITY
@@ -14,9 +14,12 @@
 0.0.0.0 198348.gl
 0.0.0.0 22qq-client.com
 0.0.0.0 4eclient.com
+0.0.0.0 Cn.devglobal.biz
 0.0.0.0 abilityindisabilityindia.org
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
+0.0.0.0 acrilicoporto.pt
+0.0.0.0 activatef.win
 0.0.0.0 addurltogoogle.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
@@ -27,13 +30,13 @@
 0.0.0.0 allendostmen.com
 0.0.0.0 alphapicaficagency.com
 0.0.0.0 alternativas.ru
-0.0.0.0 api-relay.cc
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+0.0.0.0 beak.in
 0.0.0.0 becof.org
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
@@ -48,7 +51,6 @@
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
-0.0.0.0 c1.dstatbots.win
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
@@ -56,6 +58,7 @@
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
@@ -93,7 +96,6 @@
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dnswwt.club
 0.0.0.0 doc.e-statements.app
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.54nb.com
@@ -112,6 +114,8 @@
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
+0.0.0.0 en.taichuan.com
+0.0.0.0 endpoint.project0.cc
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
@@ -124,6 +128,7 @@
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
+0.0.0.0 forgewillow.com
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
@@ -137,21 +142,20 @@
 0.0.0.0 gestroom.it
 0.0.0.0 ghostclient.net
 0.0.0.0 globalbank.us
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
 0.0.0.0 hasalltalent.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
-0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
-0.0.0.0 implantdentistrytx.com
-0.0.0.0 indonesias.me
 0.0.0.0 indusenterprises.co
-0.0.0.0 invmove.com
+0.0.0.0 iniciaonline.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
@@ -164,9 +168,9 @@
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
+0.0.0.0 kineticlenz.com
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
-0.0.0.0 kryptonclient-donutsmp.com
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lindnerelektroanlagen.de
@@ -181,9 +185,9 @@
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 malupieng.com.br
-0.0.0.0 mandarin.net.au
 0.0.0.0 massgravel.net
 0.0.0.0 meteorclients.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
@@ -207,8 +211,10 @@
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 opalcraftsmp.com
+0.0.0.0 opsecmod.st
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
@@ -221,12 +227,13 @@
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestige-client.org
+0.0.0.0 prestigeclient.st
+0.0.0.0 proalamir.dz
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qv.co.ke
-0.0.0.0 radium-client.org
 0.0.0.0 ramirex.ro
 0.0.0.0 rcf.co.mz
 0.0.0.0 rdm.91yunma.cn
@@ -237,13 +244,10 @@
 0.0.0.0 reservphotoinstay.one
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
-0.0.0.0 rheddh.com
-0.0.0.0 rmm.smartscreen.lifestyle
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rxquickpay.com
 0.0.0.0 sablayan.seasonshotelmindoro.com
-0.0.0.0 safeifm.com
 0.0.0.0 sales.ifree.page
 0.0.0.0 samiksha.com.sg
 0.0.0.0 sandboxle.com.cn
@@ -265,7 +269,7 @@
 0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
-0.0.0.0 skyblock-extras.org
+0.0.0.0 skymoders.top
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
 0.0.0.0 spgint.com
@@ -281,17 +285,19 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
-0.0.0.0 swiftfusion.tech
+0.0.0.0 taizi.fdstat.vip
 0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
+0.0.0.0 taunahi.client.farm
 0.0.0.0 taunahi.st
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
+0.0.0.0 thehaider.com
 0.0.0.0 theholidayroads.com
 0.0.0.0 themaintechnician.us
 0.0.0.0 thementordirectory.com
@@ -307,12 +313,9 @@
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
-0.0.0.0 twu-hwt.org
-0.0.0.0 universami.ge
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.googlecert.help
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -320,6 +323,7 @@
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
+0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 windomstatetheater.com
@@ -356,6 +360,7 @@
 0.0.0.0 www.nccommunication.be
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.notbak.com
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.pointtohealth.com
 0.0.0.0 www.reifenquick.de
@@ -380,6 +385,7 @@
 0.0.0.0 youtransfer.net
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
+0.0.0.0 zhostz.com
 0.0.0.0 zycdjz.com
 
 # ============================================================

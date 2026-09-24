@@ -1,14 +1,12 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-23
+#UPDATED AT 2026-09-24
 
 # ============================================================
 # SECURITY
 # Malware / Phishing / Scam / C2 / Malicious Infrastructure
 # ============================================================
 
-0.0.0.0 03teste.com
-0.0.0.0 0following.com
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 198-macros.com
@@ -17,9 +15,8 @@
 0.0.0.0 4eclient.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
-0.0.0.0 activatef.win
+0.0.0.0 activegrp.co.za
 0.0.0.0 adcentral.com.mx
-0.0.0.0 addurltogoogle.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aftelecom.com.br
@@ -46,6 +43,8 @@
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 brasilengenhariaecom.store
+0.0.0.0 bratarfood.com
 0.0.0.0 breezeclient.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
@@ -57,6 +56,7 @@
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 ccn.fdstat.vip
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
@@ -64,6 +64,7 @@
 0.0.0.0 checkfivem.com
 0.0.0.0 cheetoclient.com
 0.0.0.0 chiroartist.com
+0.0.0.0 chrome.windows-browser.net
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
@@ -75,12 +76,13 @@
 0.0.0.0 coolairesgroup.com
 0.0.0.0 coralasargetia.ro
 0.0.0.0 cpc188.day
-0.0.0.0 crazypianoswebshop.nl
 0.0.0.0 croco.cx
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
+0.0.0.0 cyberleak.top
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
+0.0.0.0 dailyushistory.com
 0.0.0.0 damiancollier.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcrun.co.uk
@@ -88,6 +90,7 @@
 0.0.0.0 deagroup-ks.com
 0.0.0.0 debugify.net
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 delta-canvas.com
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
@@ -96,6 +99,7 @@
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 doc.e-statements.app
+0.0.0.0 docs.thelobbyx.info
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
@@ -114,25 +118,26 @@
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 en.taichuan.com
-0.0.0.0 endpoint.project0.cc
-0.0.0.0 entry-code-cdn.codes
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
 0.0.0.0 escrowbank.co
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
+0.0.0.0 fastsrunners.com
 0.0.0.0 fd.v2downf.shop
+0.0.0.0 ficus.in
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
 0.0.0.0 freeclients.net
 0.0.0.0 fukt.link
+0.0.0.0 fullinstall.sbs
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
+0.0.0.0 funrat.co
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gamblerigmod.org
@@ -140,8 +145,9 @@
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 gestroom.it
-0.0.0.0 glbeletronica.com.br
+0.0.0.0 gfgxcx.com
 0.0.0.0 globalbank.us
+0.0.0.0 gmxx.online
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
@@ -153,31 +159,33 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
-0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
+0.0.0.0 indonesias.me
 0.0.0.0 indusenterprises.co
 0.0.0.0 iniciaonline.com
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
+0.0.0.0 journeylake11.com
 0.0.0.0 jswen.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
-0.0.0.0 kineticlenz.com
 0.0.0.0 konsor.ru
+0.0.0.0 korexnode.xyz
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kupunasvolpiano.com
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
+0.0.0.0 letsupconfig.sbs
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
@@ -191,9 +199,9 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
-0.0.0.0 massgravel.net
 0.0.0.0 masterplasticpack.com
 0.0.0.0 meteorclients.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mhmehadi.top
 0.0.0.0 mibd.org
 0.0.0.0 miriamgualda.com.br
@@ -202,6 +210,7 @@
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
 0.0.0.0 muaklekcoop.com
+0.0.0.0 muledo.com
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
@@ -222,7 +231,6 @@
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 pastee.dev
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
@@ -235,9 +243,7 @@
 0.0.0.0 postelnini.mk
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
-0.0.0.0 prestige-client.org
 0.0.0.0 prestigeclient.st
-0.0.0.0 proalamir.dz
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
@@ -254,7 +260,9 @@
 0.0.0.0 reservphotoinstay.one
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
+0.0.0.0 rheddh.com
 0.0.0.0 robertrowe.com
+0.0.0.0 romeopirlanta.com
 0.0.0.0 royalcuts.co.uk
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rxquickpay.com
@@ -276,21 +284,25 @@
 0.0.0.0 sg123.net
 0.0.0.0 shipminttracking.net
 0.0.0.0 shqdown.ggzuhao.com
+0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
 0.0.0.0 skyblock-extras.org
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
 0.0.0.0 spgint.com
+0.0.0.0 spitandmalachite.com
 0.0.0.0 srsorvete.com.br
-0.0.0.0 star.zcnet.net
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 streammobs.com
+0.0.0.0 support.clz.kr
 0.0.0.0 surun.info
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
+0.0.0.0 taizi.fdstat.vip
 0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -298,7 +310,6 @@
 0.0.0.0 taunahi.st
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
-0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 thehaider.com
@@ -322,17 +333,15 @@
 0.0.0.0 update.cg100iii.com
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
-0.0.0.0 vgd.vg
 0.0.0.0 visam.info
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
+0.0.0.0 windomstatetheater.com
 0.0.0.0 windowsdiagnostics.st
 0.0.0.0 wittenhorst.eu
-0.0.0.0 workerstats.net
-0.0.0.0 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
@@ -381,7 +390,6 @@
 0.0.0.0 xenon.studio
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xshop.com.tr
-0.0.0.0 y32me8.com
 0.0.0.0 yakult-hk.com
 0.0.0.0 yoauction.com
 0.0.0.0 youtransfer.net

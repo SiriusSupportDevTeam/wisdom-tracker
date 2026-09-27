@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-26
+#UPDATED AT 2026-09-27
 
 # ============================================================
 # SECURITY
@@ -14,9 +14,11 @@
 0.0.0.0 198macros.org
 0.0.0.0 22qq-client.com
 0.0.0.0 31.shaderzone.org
+0.0.0.0 3brosstore.com
 0.0.0.0 4eclient.com
 0.0.0.0 Cn.devglobal.biz
 0.0.0.0 KONAKONACRICKET.COM
+0.0.0.0 a.hbweb.icu
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 activegrp.co.za
@@ -31,7 +33,6 @@
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
-0.0.0.0 armoniamiddleeast.ae
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
 0.0.0.0 backupso.com
@@ -50,26 +51,25 @@
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
-0.0.0.0 cablewireltd.site
 0.0.0.0 cambodiatouristservice.com
+0.0.0.0 capricecapitalpartners.com
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
 0.0.0.0 cheetoclient.com
 0.0.0.0 chiroartist.com
-0.0.0.0 chrome.windows-browser.net
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud.pearlpeel.com
 0.0.0.0 clubdetiroelpicarcho.com
-0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
@@ -102,11 +102,9 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
-0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
-0.0.0.0 dreamwatchevent.com
 0.0.0.0 duct-master.com
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
@@ -126,6 +124,7 @@
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 ficus.in
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 floppaclient.com
@@ -133,33 +132,29 @@
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
 0.0.0.0 fukt.link
-0.0.0.0 fullinstall.sbs
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
-0.0.0.0 funnymap.org
+0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gamblerigmod.org
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestroom.it
-0.0.0.0 gfgxcx.com
-0.0.0.0 glbeletronica.com.br
 0.0.0.0 globalbank.us
-0.0.0.0 gmxx.online
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
 0.0.0.0 hasalltalent.com
-0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
-0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
 0.0.0.0 indonesias.me
+0.0.0.0 iniciaonline.com
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
@@ -168,11 +163,12 @@
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
-0.0.0.0 jointaxel.online
+0.0.0.0 kabarberita.eu.cc
 0.0.0.0 kavacanada.ca
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
+0.0.0.0 kiss.a-dog.top
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 landonirwin.com
@@ -192,7 +188,10 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
+0.0.0.0 maple30.com
 0.0.0.0 meteorclients.com
+0.0.0.0 metrics.agoxpathbet.one
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mibd.org
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
@@ -223,7 +222,6 @@
 0.0.0.0 opsecmod.st
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
-0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
@@ -231,18 +229,16 @@
 0.0.0.0 planetariumobil.ro
 0.0.0.0 polarclient.net
 0.0.0.0 polinexclient.org
-0.0.0.0 portal.onepansol.site
 0.0.0.0 postelnini.mk
 0.0.0.0 power.belyxhost.in
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestigeclient.st
-0.0.0.0 profileone.jo3.org
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
-0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 quillchant14.com
 0.0.0.0 qv.co.ke
 0.0.0.0 ramirex.ro
 0.0.0.0 rcf.co.mz
@@ -268,11 +264,11 @@
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
+0.0.0.0 scrroeder.com
 0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
-0.0.0.0 seguranca.versionnova.site
 0.0.0.0 seismophonic.com
 0.0.0.0 semencepourlavie.org
 0.0.0.0 seputartuban.com
@@ -284,7 +280,6 @@
 0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
-0.0.0.0 skyblock-extras.org
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
 0.0.0.0 spgint.com
@@ -297,6 +292,7 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
+0.0.0.0 swatting.wiki
 0.0.0.0 swiftfusion.tech
 0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
@@ -320,6 +316,7 @@
 0.0.0.0 tpp.om-stock.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
+0.0.0.0 tryclix.com
 0.0.0.0 twu-hwt.org
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
@@ -351,9 +348,9 @@
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
+0.0.0.0 www.duelvalenza.it
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.gestroom.it
-0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
@@ -365,6 +362,7 @@
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.newkey.co.kr
+0.0.0.0 www.notbak.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.pointtohealth.com

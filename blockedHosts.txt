@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-28
+#UPDATED AT 2026-09-29
 
 # ============================================================
 # SECURITY
@@ -13,28 +13,23 @@
 0.0.0.0 198348.gl
 0.0.0.0 198macros.org
 0.0.0.0 22qq-client.com
-0.0.0.0 31.shaderzone.org
 0.0.0.0 4eclient.com
 0.0.0.0 4flng-filedrive.sbs
 0.0.0.0 Cn.devglobal.biz
-0.0.0.0 KONAKONACRICKET.COM
-0.0.0.0 a.hbweb.icu
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
-0.0.0.0 acrilicoporto.pt
-0.0.0.0 activegrp.co.za
 0.0.0.0 adcentral.com.mx
-0.0.0.0 adctanzania.co.tz
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aftelecom.com.br
-0.0.0.0 aidlifempowerment.com
+0.0.0.0 ahsniper.org
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
+0.0.0.0 astraluxclient.com
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
 0.0.0.0 backupso.com
@@ -47,14 +42,13 @@
 0.0.0.0 bmdcompany.com
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
+0.0.0.0 book.rollingvideogames.com
 0.0.0.0 breezeclient.com
 0.0.0.0 breezeclient.org
 0.0.0.0 bridgeroad.maverickpreviews.com
-0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
 0.0.0.0 build.polysupport.team
 0.0.0.0 cambodiatouristservice.com
-0.0.0.0 capricecapitalpartners.com
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 cat.xiaojiji.nl
@@ -78,6 +72,7 @@
 0.0.0.0 coralasargetia.ro
 0.0.0.0 cpc188.day
 0.0.0.0 crazypianoswebshop.nl
+0.0.0.0 crystalbranchtw.blog
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 d.14yaa.com
@@ -90,6 +85,7 @@
 0.0.0.0 deagroup-ks.com
 0.0.0.0 debugify.net
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 delphiaonline.top
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
@@ -101,12 +97,15 @@
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 download.youlovemybiba.com
+0.0.0.0 dreamwatchevent.com
 0.0.0.0 duct-master.com
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
@@ -117,6 +116,7 @@
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
 0.0.0.0 escrowbank.co
+0.0.0.0 evacompltd.site
 0.0.0.0 fakers.co.jp
 0.0.0.0 familyaddons.com
 0.0.0.0 familyaddons.org
@@ -130,6 +130,7 @@
 0.0.0.0 floppaclient.org
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
+0.0.0.0 fucktermedfir.st
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
@@ -165,11 +166,11 @@
 0.0.0.0 jlwz.cn
 0.0.0.0 kabarberita.eu.cc
 0.0.0.0 kavacanada.ca
+0.0.0.0 kazdiyden.ru
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimdoo-app.top
 0.0.0.0 kimyen.net
-0.0.0.0 kiss.a-dog.top
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 landonirwin.com
@@ -188,9 +189,8 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
-0.0.0.0 maple30.com
 0.0.0.0 meteorclients.com
-0.0.0.0 metrics.agoxpathbet.one
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mibd.org
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
@@ -198,6 +198,7 @@
 0.0.0.0 mm-mvshahacademy.ac.ke
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
+0.0.0.0 moniquejhingon.com
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
 0.0.0.0 munihuacho.gob.pe
@@ -217,12 +218,10 @@
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
-0.0.0.0 opalcraftsmp.com
 0.0.0.0 opsecmod.st
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 pay.aqiu6.com
-0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
 0.0.0.0 photolivebook.pro
@@ -230,7 +229,6 @@
 0.0.0.0 polarclient.net
 0.0.0.0 polinexclient.org
 0.0.0.0 postelnini.mk
-0.0.0.0 power.belyxhost.in
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestigeclient.st
@@ -238,7 +236,6 @@
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 quillchant14.com
 0.0.0.0 qv.co.ke
 0.0.0.0 rabbids.cc
 0.0.0.0 ramirex.ro
@@ -247,8 +244,10 @@
 0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 reifenquick.de
+0.0.0.0 reinigung-kosanke.de
 0.0.0.0 reservphotoinstay.one
 0.0.0.0 reservphotoinstaynow.shop
+0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
 0.0.0.0 robertrowe.com
 0.0.0.0 romeopirlanta.com
@@ -272,8 +271,10 @@
 0.0.0.0 semencepourlavie.org
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigmaclient.net
 0.0.0.0 sigmaclient.org
+0.0.0.0 simplecheck.online
 0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
@@ -281,15 +282,15 @@
 0.0.0.0 soft.110route.com
 0.0.0.0 spgint.com
 0.0.0.0 srsorvete.com.br
+0.0.0.0 star.zcnet.net
 0.0.0.0 static.ilclock.com
-0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
+0.0.0.0 streammobs.com
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
 0.0.0.0 swatting.wiki
-0.0.0.0 swiftfusion.tech
 0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -312,7 +313,7 @@
 0.0.0.0 tpp.om-stock.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
-0.0.0.0 tryclix.com
+0.0.0.0 trust-soft.cc
 0.0.0.0 twu-hwt.org
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
@@ -323,6 +324,7 @@
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
+0.0.0.0 webpagehelp.online
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 wielixclient.com
@@ -378,6 +380,7 @@
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 xenon.studio
+0.0.0.0 xenonclient.com
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xshop.com.tr
 0.0.0.0 yakult-hk.com

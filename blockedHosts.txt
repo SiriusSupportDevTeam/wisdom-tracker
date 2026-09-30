@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-09-29
+#UPDATED AT 2026-09-30
 
 # ============================================================
 # SECURITY
@@ -14,7 +14,7 @@
 0.0.0.0 198macros.org
 0.0.0.0 22qq-client.com
 0.0.0.0 4eclient.com
-0.0.0.0 4flng-filedrive.sbs
+0.0.0.0 6tu2zzl7q5wtdm6icmutlb6ifr7zz3z2svxvieaz7u4pqxrbblc7ltid.onion
 0.0.0.0 Cn.devglobal.biz
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
@@ -29,6 +29,7 @@
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
+0.0.0.0 argon-client.com
 0.0.0.0 astraluxclient.com
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
@@ -37,6 +38,7 @@
 0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 blankeyeo.com
+0.0.0.0 blaxllantas.com
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 bmdcompany.com
@@ -97,7 +99,6 @@
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
@@ -106,12 +107,11 @@
 0.0.0.0 download.pdf00.com
 0.0.0.0 download.youlovemybiba.com
 0.0.0.0 dreamwatchevent.com
-0.0.0.0 duct-master.com
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 elrneba.com
+0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
-0.0.0.0 endpoint.project0.cc
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
@@ -122,6 +122,7 @@
 0.0.0.0 familyaddons.org
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
+0.0.0.0 ficus.in
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
@@ -137,10 +138,12 @@
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gamblerigmod.org
+0.0.0.0 gammanort.thekielement.com
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestroom.it
 0.0.0.0 globalbank.us
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
@@ -148,10 +151,12 @@
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 hjha.ao
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
+0.0.0.0 idid.pl
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
@@ -160,16 +165,14 @@
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
+0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
-0.0.0.0 kabarberita.eu.cc
 0.0.0.0 kavacanada.ca
 0.0.0.0 kazdiyden.ru
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
-0.0.0.0 kimdoo-app.top
 0.0.0.0 kimyen.net
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
@@ -189,13 +192,13 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
+0.0.0.0 maple30.com
 0.0.0.0 meteorclients.com
-0.0.0.0 metrics.gocloudmaps.com
+0.0.0.0 meteorrejects.net
 0.0.0.0 mibd.org
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
-0.0.0.0 mm-mvshahacademy.ac.ke
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
 0.0.0.0 moniquejhingon.com
@@ -208,6 +211,7 @@
 0.0.0.0 noamaddons.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nova-client.com
+0.0.0.0 noxxclient.org
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 obearo.com
@@ -219,9 +223,12 @@
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 opsecmod.st
+0.0.0.0 otkrytkadnya.ru
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 pay.aqiu6.com
+0.0.0.0 pcupd.com
+0.0.0.0 pevrix.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
 0.0.0.0 photolivebook.pro
@@ -236,6 +243,7 @@
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 quillchant14.com
 0.0.0.0 qv.co.ke
 0.0.0.0 rabbids.cc
 0.0.0.0 ramirex.ro
@@ -249,6 +257,7 @@
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
+0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 romeopirlanta.com
 0.0.0.0 royalcuts.co.uk
@@ -286,11 +295,11 @@
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
-0.0.0.0 streammobs.com
 0.0.0.0 support.clz.kr
+0.0.0.0 sushiandpoke.pt
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
-0.0.0.0 swatting.wiki
+0.0.0.0 swiftfusion.tech
 0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -298,6 +307,7 @@
 0.0.0.0 taunahi.st
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
+0.0.0.0 telpak.icu
 0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
@@ -308,13 +318,18 @@
 0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tiacreation.club
+0.0.0.0 tmcksa.com
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
 0.0.0.0 tpp.om-stock.com
+0.0.0.0 tradingengineers.in
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trust-soft.cc
+0.0.0.0 tutpaste.com
+0.0.0.0 twitch.tj
 0.0.0.0 twu-hwt.org
+0.0.0.0 uasputnik.com
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -340,6 +355,7 @@
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
+0.0.0.0 www.cakkaao.com
 0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.controliumbt.com
 0.0.0.0 www.crazywickedaddiction.com

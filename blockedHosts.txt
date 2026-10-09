@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-10-08
+#UPDATED AT 2026-10-09
 
 # ============================================================
 # SECURITY
@@ -10,12 +10,15 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 198-macros.com
-0.0.0.0 198348.gl
 0.0.0.0 22qq-client.com
+0.0.0.0 3.zhzy999.net
+0.0.0.0 3.zhzy999.net3.zhzy999.net
+0.0.0.0 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 0.0.0.0 4eclient.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 acrilicoporto.pt
+0.0.0.0 adcentral.com.mx
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aetherius.live
@@ -25,19 +28,18 @@
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
-0.0.0.0 alotic.net
 0.0.0.0 alternativas.ru
 0.0.0.0 andbake.cam
-0.0.0.0 aolgepacklng.com
 0.0.0.0 api.wipmania.net
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
 0.0.0.0 argon-client.com
-0.0.0.0 atasapka.com.tr
+0.0.0.0 ascomsecurity.com.au
 0.0.0.0 athuselevadores.com.br
 0.0.0.0 b.clu-e.eu
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 bergmann-automobile.de
 0.0.0.0 beschaffung-portal.de
@@ -51,6 +53,7 @@
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 bserail.com
 0.0.0.0 bumcoinc.site
+0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
@@ -58,15 +61,14 @@
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
-0.0.0.0 cepde.org
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
+0.0.0.0 clownguard.us
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
@@ -88,14 +90,15 @@
 0.0.0.0 delp-heizungsbau.de
 0.0.0.0 delta-canvas.com
 0.0.0.0 dezcom.com
+0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dinamikakargo.com
-0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 docs.cs-supplements.de
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 donutclients.st
+0.0.0.0 donutclientsmods.xyz
 0.0.0.0 donutdupe.com
 0.0.0.0 donutsmpclient.com
 0.0.0.0 down.fwqlt.com
@@ -106,7 +109,6 @@
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
-0.0.0.0 download.pdf00.com
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
@@ -128,7 +130,6 @@
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
 0.0.0.0 fucktermedfir.st
-0.0.0.0 fujeigroup.com
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 fz.tiansys.cn
@@ -150,8 +151,10 @@
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 hobobot.net
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
@@ -162,6 +165,7 @@
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
+0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
@@ -187,7 +191,6 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
-0.0.0.0 manmenduster.online
 0.0.0.0 maple30.com
 0.0.0.0 marlowclient.com
 0.0.0.0 meteorclients.com
@@ -206,14 +209,13 @@
 0.0.0.0 multiplay.at
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mysura.it
-0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 nd.tdpqnf.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 obearo.com
 0.0.0.0 odinclient.st
-0.0.0.0 ohhhhhmoney.com
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
@@ -236,15 +238,14 @@
 0.0.0.0 postelnini.mk
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestigeclient.st
-0.0.0.0 primeemberq.cfd
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 project0.cc
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qpwot.cfd
 0.0.0.0 quillchant14.com
 0.0.0.0 qv.co.ke
+0.0.0.0 qwfwhg4.lol
 0.0.0.0 rabbids.cc
 0.0.0.0 ramirex.ro
 0.0.0.0 razao.pt
@@ -266,6 +267,7 @@
 0.0.0.0 sales.ifree.page
 0.0.0.0 samiksha.com.sg
 0.0.0.0 sandybeachesandsunsets.com
+0.0.0.0 sayosay.cc
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
@@ -276,7 +278,6 @@
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 seismophonic.com
 0.0.0.0 semencepourlavie.org
-0.0.0.0 seputartuban.com
 0.0.0.0 severidades.cfd
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
@@ -288,14 +289,13 @@
 0.0.0.0 sqpengg.com
 0.0.0.0 srsorvete.com.br
 0.0.0.0 stanarcservice.com
-0.0.0.0 star.zcnet.net
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stellaspicy.org
+0.0.0.0 streammobs.com
 0.0.0.0 sugarfreedcup.co.za
-0.0.0.0 summitcapitalpatners.info
 0.0.0.0 support.clz.kr
 0.0.0.0 sushiandpoke.pt
 0.0.0.0 sutterpoint.com
@@ -305,6 +305,7 @@
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
+0.0.0.0 tartaklegnica.pl
 0.0.0.0 taunahi.st
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
@@ -316,16 +317,16 @@
 0.0.0.0 thementordirectory.com
 0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thisisafalsepositive.st
-0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tiacreation.club
 0.0.0.0 tmcksa.com
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
 0.0.0.0 tpp.om-stock.com
+0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
-0.0.0.0 tttkkkssww.com
 0.0.0.0 twitch.tj
+0.0.0.0 twu-hwt.org
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -335,6 +336,9 @@
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
+0.0.0.0 w.zhzy999.net
+0.0.0.0 w5q.eu
+0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wicresetconnect.com
 0.0.0.0 widexenmexico.com.mx
@@ -358,12 +362,12 @@
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.duelvalenza.it
+0.0.0.0 www.epibenie.dz
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
-0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.kenwillzltd.com
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
@@ -384,7 +388,6 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.test.peperoncinochepassione.it
-0.0.0.0 www.tmcksa.com
 0.0.0.0 www.vuelaviajero.com
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.xn--on3b15m2lco2u.com

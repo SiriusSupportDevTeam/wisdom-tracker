@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-10-18
+#UPDATED AT 2026-10-19
 
 # ============================================================
 # SECURITY
@@ -15,6 +15,7 @@
 0.0.0.0 3.zhzy999.net
 0.0.0.0 3.zhzy999.net3.zhzy999.net
 0.0.0.0 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
+0.0.0.0 3brosstore.com
 0.0.0.0 4eclient.com
 0.0.0.0 6sim.vip
 0.0.0.0 80a6jnaz.basickantoor1.nl
@@ -39,6 +40,7 @@
 0.0.0.0 autohaus-bender.de
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
@@ -63,8 +65,8 @@
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cde.monther.life
+0.0.0.0 cdk.monther.life
 0.0.0.0 cdn.file6.goodid.com
-0.0.0.0 cdn.monther.life
 0.0.0.0 cdn.wovplaying.help
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chantcompass9.com
@@ -78,20 +80,17 @@
 0.0.0.0 cloubflare.net
 0.0.0.0 clownguard.us
 0.0.0.0 clubdetiroelpicarcho.com
-0.0.0.0 cmp4.top
 0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
 0.0.0.0 cpc188.day
-0.0.0.0 cpxlt.cn
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 damiancollier.com
 0.0.0.0 data.yhydl.com
-0.0.0.0 db.foodbook.pk
 0.0.0.0 dcrun.co.uk
 0.0.0.0 dcwblida.dz
 0.0.0.0 deagroup-ks.com
@@ -125,11 +124,11 @@
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
+0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
 0.0.0.0 epanpano.com
 0.0.0.0 epstexsecutor.com
 0.0.0.0 escrowbank.co
-0.0.0.0 exec-roblox.info
 0.0.0.0 exo-api.tf
 0.0.0.0 fable-shine.com
 0.0.0.0 fakers.co.jp
@@ -145,17 +144,19 @@
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
 0.0.0.0 frame-kite.com
+0.0.0.0 frame97.com
 0.0.0.0 ftp.vietnam852.com
 0.0.0.0 fucktermedfir.st
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
 0.0.0.0 fz.tiansys.cn
+0.0.0.0 gabyagozetim.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
+0.0.0.0 gestroom.it
 0.0.0.0 getoutofthebackseat.com
-0.0.0.0 ggi.dietondemand.com
 0.0.0.0 gitrm.sbs
 0.0.0.0 gitsl.xyz
 0.0.0.0 gitview.sbs
@@ -172,7 +173,6 @@
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 horno-rafelet.es
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
@@ -192,22 +192,22 @@
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
+0.0.0.0 jumalputty.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
 0.0.0.0 konsor.ru
 0.0.0.0 krause-fahrzeuge.de
 0.0.0.0 kryptonclient-cracked.com
-0.0.0.0 kst.omsules.life
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
+0.0.0.0 leafdraft18.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 livinginpurpose.co.za
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 luizmatoso.com.br
-0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.com
 0.0.0.0 luminexclient.net
 0.0.0.0 luminouspower.com.pk
@@ -216,6 +216,7 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
+0.0.0.0 mandarin.net.au
 0.0.0.0 maple30.com
 0.0.0.0 marlowclient.com
 0.0.0.0 meteorclients.com
@@ -228,20 +229,18 @@
 0.0.0.0 mkconstructions.net
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
-0.0.0.0 mothertouch.ac.zw
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
 0.0.0.0 multiplay.at
 0.0.0.0 munihuacho.gob.pe
-0.0.0.0 mx9x.com
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 nd.tdpqnf.com
 0.0.0.0 noithaticon.vn
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nova-75.com
 0.0.0.0 nova-client.com
-0.0.0.0 nusatoyota.co.id
 0.0.0.0 obearo.com
 0.0.0.0 odinclient.st
 0.0.0.0 ojang.pe.kr
@@ -253,6 +252,7 @@
 0.0.0.0 outpost.co.ke
 0.0.0.0 p-i-s-e.fr
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pee-files.nl
@@ -263,22 +263,24 @@
 0.0.0.0 polinexclient.org
 0.0.0.0 porterneuman.mx
 0.0.0.0 postelnini.mk
+0.0.0.0 power-shell.cc
 0.0.0.0 prestigeclient.st
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 project0.cc
+0.0.0.0 ps-ps.cc
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 quillchant14.com
 0.0.0.0 rabbids.cc
 0.0.0.0 ramirex.ro
+0.0.0.0 ray-id-v3.com
 0.0.0.0 razao.pt
 0.0.0.0 rcf.co.mz
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 re-id-v3.com
 0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
-0.0.0.0 redxcvfsdgth.info
 0.0.0.0 reifenquick.de
 0.0.0.0 reservphotoinstay.one
 0.0.0.0 reservphotoinstaynow.shop
@@ -287,6 +289,7 @@
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
+0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
 0.0.0.0 safeifm.com
 0.0.0.0 sales.ifree.page
@@ -299,10 +302,9 @@
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
-0.0.0.0 security-analyze.ltd
 0.0.0.0 seismophonic.com
 0.0.0.0 semencepourlavie.org
-0.0.0.0 sep.dailytechinsight.com
+0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigmaclient.net
@@ -326,7 +328,6 @@
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
 0.0.0.0 swiftfusion.tech
-0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
@@ -359,13 +360,12 @@
 0.0.0.0 uu.v2raynapps.com.cn
 0.0.0.0 veryboys.com
 0.0.0.0 viewgit.sbs
+0.0.0.0 vine-linen.com
 0.0.0.0 visam.info
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
-0.0.0.0 vtivision-fi.com
 0.0.0.0 w.zhzy999.net
-0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 wielixclient.com
@@ -410,6 +410,7 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.sgeseducation.com
 0.0.0.0 www.silver-hubdachwohnwagen.de
+0.0.0.0 www.skmac811.com
 0.0.0.0 www.ss-01.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
@@ -428,8 +429,10 @@
 0.0.0.0 xshop.com.tr
 0.0.0.0 yakult-hk.com
 0.0.0.0 youtransfer.net
+0.0.0.0 zamatours.net
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
+0.0.0.0 zimzar.site
 0.0.0.0 zycdjz.com
 
 # ============================================================

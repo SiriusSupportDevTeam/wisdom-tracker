@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-10-24
+#UPDATED AT 2026-10-25
 
 # ============================================================
 # SECURITY
@@ -25,6 +25,7 @@
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aetherius.live
 0.0.0.0 aftelecom.com.br
+0.0.0.0 ahiak.com
 0.0.0.0 aidlifempowerment.com
 0.0.0.0 aiqana.com
 0.0.0.0 alarmline.com.br
@@ -33,6 +34,7 @@
 0.0.0.0 allendostmen.com
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
+0.0.0.0 appset.autos
 0.0.0.0 areyouready.co.za
 0.0.0.0 argon-client.com
 0.0.0.0 artalivedesign.com
@@ -41,11 +43,11 @@
 0.0.0.0 auntieschaikhana.co.uk
 0.0.0.0 autohaus-bender.de
 0.0.0.0 autohaus-neumann24.de
+0.0.0.0 axqua.com
 0.0.0.0 backupso.com
 0.0.0.0 bagsrad.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 0.0.0.0 balancing.my.id
-0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 beschaffungszentrale.de
 0.0.0.0 betmagik.com
@@ -61,23 +63,21 @@
 0.0.0.0 briannacorporation.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 bserail.com
-0.0.0.0 btorsercoyt31.cc
 0.0.0.0 bumcoinc.site
 0.0.0.0 bvmatqnam.com.vn
 0.0.0.0 c2.teamzeroday.net
 0.0.0.0 cambodiatouristservice.com
-0.0.0.0 casapepepuertosherry.es
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.file6.goodid.com
+0.0.0.0 cdm.wovplaying.help
 0.0.0.0 cdp.wovplaying.help
 0.0.0.0 celebratingseniors.net
-0.0.0.0 cepde.org
 0.0.0.0 ceramicasaosebastiao.com.br
+0.0.0.0 chant98.com
 0.0.0.0 chantcompass9.com
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
@@ -117,7 +117,6 @@
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 donutbasefinder.com
 0.0.0.0 donutclients.cc
-0.0.0.0 donutsmpclients.store
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
@@ -141,7 +140,6 @@
 0.0.0.0 excelnt.ai
 0.0.0.0 exo-api.tf
 0.0.0.0 fable-shine.com
-0.0.0.0 faceit.pairacc.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 familyaddons.com
 0.0.0.0 farschid.de
@@ -149,6 +147,7 @@
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
+0.0.0.0 files.8weeksaverage.xyz
 0.0.0.0 first-security-verden.de
 0.0.0.0 floppaclient.com
 0.0.0.0 flyingmutts.com
@@ -167,7 +166,6 @@
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geaix.com
 0.0.0.0 geoxsecurity.ro
-0.0.0.0 gestroom.it
 0.0.0.0 gfisoda.biz
 0.0.0.0 globalbank.us
 0.0.0.0 greatwhite.me
@@ -181,6 +179,7 @@
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 horno-rafelet.es
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
@@ -188,17 +187,14 @@
 0.0.0.0 icoffeecloud.com
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
-0.0.0.0 imperiailmports.com
 0.0.0.0 intelli-sys.co.zw
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
-0.0.0.0 jscdncloude.beer
 0.0.0.0 jumalputty.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
@@ -235,24 +231,23 @@
 0.0.0.0 meteorclients.com
 0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mibd.org
-0.0.0.0 minnarasanen.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
+0.0.0.0 msgrouppolicy.vg
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
 0.0.0.0 multiplay.at
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
-0.0.0.0 nautt.co.uk
 0.0.0.0 ncxps.com
+0.0.0.0 nd.tdpqnf.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nova-75.com
 0.0.0.0 nova-client.com
-0.0.0.0 nsgggg.com
 0.0.0.0 odinclient.st
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
@@ -275,6 +270,7 @@
 0.0.0.0 porterneuman.mx
 0.0.0.0 postelnini.mk
 0.0.0.0 power-shell.cc
+0.0.0.0 powershell-storage.vg
 0.0.0.0 premuimline-mea.cam
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 project0.cc
@@ -282,6 +278,7 @@
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvphood.cc
 0.0.0.0 pvsa.gxfugy.cn
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 quillchant14.com
 0.0.0.0 ramirex.ro
 0.0.0.0 razao.pt
@@ -297,11 +294,10 @@
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
-0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
 0.0.0.0 safeifm.com
+0.0.0.0 sales.ifree.page
 0.0.0.0 samiksha.com.sg
-0.0.0.0 samul.elblag.pl
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
@@ -310,7 +306,6 @@
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 seismophonic.com
-0.0.0.0 seitech.ir
 0.0.0.0 semencepourlavie.org
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
@@ -318,6 +313,7 @@
 0.0.0.0 sigmaclient.net
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
+0.0.0.0 skymods.download
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
 0.0.0.0 southwindsfineart.com
@@ -330,8 +326,6 @@
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
-0.0.0.0 stellaspicy.org
-0.0.0.0 streammobs.com
 0.0.0.0 sugarfreedcup.co.za
 0.0.0.0 support.clz.kr
 0.0.0.0 sushiandpoke.pt
@@ -355,7 +349,6 @@
 0.0.0.0 theholidayroads.com
 0.0.0.0 thementordirectory.com
 0.0.0.0 thisisafalsepositive.st
-0.0.0.0 thorfish.is
 0.0.0.0 tiacreation.club
 0.0.0.0 tmcksa.com
 0.0.0.0 toolshare.com.tr
@@ -366,6 +359,7 @@
 0.0.0.0 tribot.co.uk
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
+0.0.0.0 twu-hwt.org
 0.0.0.0 tycons.com
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
@@ -389,12 +383,14 @@
 0.0.0.0 wittenhorst.eu
 0.0.0.0 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 0.0.0.0 www.2goelectricity.cloud
+0.0.0.0 www.ahiak.com
 0.0.0.0 www.aiqana.com
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.autohaus-bender.de
 0.0.0.0 www.autohaus-neumann24.de
 0.0.0.0 www.automobile-bk.de
+0.0.0.0 www.axqua.com
 0.0.0.0 www.backupallfresh2030.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.beschaffungszentrale.de
@@ -406,9 +402,9 @@
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.duelvalenza.it
 0.0.0.0 www.easybillingsolutions.xyz
-0.0.0.0 www.einzigartigfrei.de
 0.0.0.0 www.excelnt.ai
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.hickamhealthcare.com
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
@@ -444,6 +440,7 @@
 0.0.0.0 www.tribot.co.uk
 0.0.0.0 www.vergabe-zentrale.de
 0.0.0.0 www.vuelaviajero.com
+0.0.0.0 www.vunex.dev
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com

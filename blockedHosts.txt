@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-10-25
+#UPDATED AT 2026-10-26
 
 # ============================================================
 # SECURITY
@@ -19,6 +19,7 @@
 0.0.0.0 acbcr.ro
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 adcentral.com.mx
 0.0.0.0 adiyamancamkornis.com.tr
 0.0.0.0 admin.byte.in.ua
@@ -45,9 +46,9 @@
 0.0.0.0 autohaus-neumann24.de
 0.0.0.0 axqua.com
 0.0.0.0 backupso.com
-0.0.0.0 bagsrad.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 0.0.0.0 balancing.my.id
+0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 beschaffungszentrale.de
 0.0.0.0 betmagik.com
@@ -72,11 +73,13 @@
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 ccn.fdstat.vip
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdm.wovplaying.help
-0.0.0.0 cdp.wovplaying.help
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 ceramicasaosebastiao.com.br
+0.0.0.0 chant66.com
 0.0.0.0 chant98.com
 0.0.0.0 chantcompass9.com
 0.0.0.0 chat-server.maverickpreviews.com
@@ -90,6 +93,7 @@
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
 0.0.0.0 cpc188.day
+0.0.0.0 cpofficial.com
 0.0.0.0 creativit.fr
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
@@ -108,11 +112,11 @@
 0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
+0.0.0.0 divinex.to
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dmoneii.com
-0.0.0.0 dnf.gampangjepe.org
 0.0.0.0 domainmob.com
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 donutbasefinder.com
@@ -126,9 +130,11 @@
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 download.tg1101.com
 0.0.0.0 draft-loop.com
 0.0.0.0 dreambot.cc
 0.0.0.0 dreamwatchevent.com
+0.0.0.0 dxa.multidex.life
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
@@ -139,6 +145,7 @@
 0.0.0.0 escrowbank.co
 0.0.0.0 excelnt.ai
 0.0.0.0 exo-api.tf
+0.0.0.0 exq.messag.life
 0.0.0.0 fable-shine.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 familyaddons.com
@@ -149,6 +156,7 @@
 0.0.0.0 filerit.com
 0.0.0.0 files.8weeksaverage.xyz
 0.0.0.0 first-security-verden.de
+0.0.0.0 flicargo.com
 0.0.0.0 floppaclient.com
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
@@ -163,10 +171,8 @@
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 gabyagozetim.com
 0.0.0.0 galerisenimutiara.com
-0.0.0.0 gboutros.howto.rocks
-0.0.0.0 geaix.com
 0.0.0.0 geoxsecurity.ro
-0.0.0.0 gfisoda.biz
+0.0.0.0 gestroom.it
 0.0.0.0 globalbank.us
 0.0.0.0 greatwhite.me
 0.0.0.0 greenf.alexion.rs
@@ -179,7 +185,6 @@
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 horno-rafelet.es
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
@@ -193,6 +198,7 @@
 0.0.0.0 isiore.com.co
 0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
+0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jumalputty.com
@@ -204,18 +210,15 @@
 0.0.0.0 konsor.ru
 0.0.0.0 krause-fahrzeuge.de
 0.0.0.0 kryptonclient-cracked.com
-0.0.0.0 kss-kwt.cam
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 leafdraft18.com
 0.0.0.0 lebang.si
 0.0.0.0 lehmann-autohaus.de
 0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 linenquill.com
 0.0.0.0 livinginpurpose.co.za
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.com
@@ -236,15 +239,16 @@
 0.0.0.0 mkconstructions.net
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
-0.0.0.0 msgrouppolicy.vg
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
 0.0.0.0 multiplay.at
 0.0.0.0 munihuacho.gob.pe
+0.0.0.0 muriaspetin.es
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 nd.tdpqnf.com
+0.0.0.0 nest-52.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nova-75.com
 0.0.0.0 nova-client.com
@@ -253,7 +257,6 @@
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
-0.0.0.0 oopz.name
 0.0.0.0 opsecmod.st
 0.0.0.0 outpost.co.ke
 0.0.0.0 oz-courses.com
@@ -264,14 +267,11 @@
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 photolivebook.pro
 0.0.0.0 pictureurl.com
-0.0.0.0 pk.9winchamp.com
+0.0.0.0 play.nopixel-rp.ir
 0.0.0.0 plikai.com
 0.0.0.0 polarclient.net
 0.0.0.0 porterneuman.mx
 0.0.0.0 postelnini.mk
-0.0.0.0 power-shell.cc
-0.0.0.0 powershell-storage.vg
-0.0.0.0 premuimline-mea.cam
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 project0.cc
 0.0.0.0 ps-ps.cc
@@ -280,6 +280,7 @@
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 quillchant14.com
+0.0.0.0 r3lzu9.fernthema.shop
 0.0.0.0 ramirex.ro
 0.0.0.0 razao.pt
 0.0.0.0 rcf.co.mz
@@ -291,9 +292,9 @@
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
-0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
+0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
 0.0.0.0 safeifm.com
 0.0.0.0 sales.ifree.page
@@ -326,6 +327,7 @@
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
+0.0.0.0 streammobs.com
 0.0.0.0 sugarfreedcup.co.za
 0.0.0.0 support.clz.kr
 0.0.0.0 sushiandpoke.pt
@@ -339,7 +341,6 @@
 0.0.0.0 tartaklegnica.pl
 0.0.0.0 taskercounselling.com
 0.0.0.0 taunahi.st
-0.0.0.0 tax.eatleanbeans.com
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 tengfeidn.cn
@@ -353,14 +354,13 @@
 0.0.0.0 tmcksa.com
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 tribot.co.uk
 0.0.0.0 trtmyanmar.com
-0.0.0.0 twitch.tj
 0.0.0.0 twu-hwt.org
 0.0.0.0 tycons.com
+0.0.0.0 unoplayy.com
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -374,13 +374,16 @@
 0.0.0.0 vrajras.com
 0.0.0.0 w.zhzy999.net
 0.0.0.0 w5q.eu
+0.0.0.0 wda.messag.life
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wicreset.online
+0.0.0.0 wicresetconnect.com
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 wielixclient.com
 0.0.0.0 wielixclient.net
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wittenhorst.eu
+0.0.0.0 wpoler.help
 0.0.0.0 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 0.0.0.0 www.2goelectricity.cloud
 0.0.0.0 www.ahiak.com
@@ -392,10 +395,10 @@
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.axqua.com
 0.0.0.0 www.backupallfresh2030.com
+0.0.0.0 www.bagsrad.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.beschaffungszentrale.de
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
-0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.controliumbt.com
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
@@ -404,6 +407,7 @@
 0.0.0.0 www.easybillingsolutions.xyz
 0.0.0.0 www.excelnt.ai
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.hickamhealthcare.com
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
@@ -430,7 +434,6 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.sgeseducation.com
 0.0.0.0 www.silver-hubdachwohnwagen.de
-0.0.0.0 www.skmac811.com
 0.0.0.0 www.ss-01.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
@@ -444,7 +447,8 @@
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com
-0.0.0.0 www.zhikey.com
+0.0.0.0 xeno.baby
+0.0.0.0 xeno.watch
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
 0.0.0.0 xn--yh4bx88a.com
@@ -452,10 +456,8 @@
 0.0.0.0 yakult-hk.com
 0.0.0.0 youreonlymassive.com
 0.0.0.0 youtransfer.net
-0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zimzar.site
-0.0.0.0 zip.dailytechinsight.com
 0.0.0.0 zycdjz.com
 
 # ============================================================

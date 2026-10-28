@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-10-27
+#UPDATED AT 2026-10-28
 
 # ============================================================
 # SECURITY
@@ -20,7 +20,6 @@
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 adcentral.com.mx
-0.0.0.0 adiyamancamkornis.com.tr
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aetherius.live
@@ -40,15 +39,15 @@
 0.0.0.0 auntieschaikhana.co.uk
 0.0.0.0 autohaus-bender.de
 0.0.0.0 autohaus-neumann24.de
+0.0.0.0 avidhosting.uk
 0.0.0.0 axionasports.com
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-0.0.0.0 balancing.my.id
 0.0.0.0 bb2c6-42dfkea8-9fhh47-927aebce12d4.fasterflogging.cc
 0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 beschaffungszentrale.de
-0.0.0.0 betmagik.com
+0.0.0.0 bioprot.com.ar
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
@@ -56,9 +55,11 @@
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 bore.pub
 0.0.0.0 breezeclient.com
 0.0.0.0 breezeclient.org
 0.0.0.0 briannacorporation.com
+0.0.0.0 bridge73.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 bserail.com
 0.0.0.0 bumcoinc.site
@@ -70,10 +71,11 @@
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 caterprosoftware.com
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdm.wovplaying.help
+0.0.0.0 cdn.file6.goodid.com
+0.0.0.0 cdn4324.com
 0.0.0.0 celebratingseniors.net
-0.0.0.0 cepde.org
 0.0.0.0 ceramicasaosebastiao.com.br
 0.0.0.0 chant66.com
 0.0.0.0 chant98.com
@@ -86,9 +88,12 @@
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
+0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
 0.0.0.0 cpc188.day
+0.0.0.0 crackedclients.online
 0.0.0.0 creativit.fr
+0.0.0.0 crojam.com
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 cs2xexternal.com
@@ -108,7 +113,6 @@
 0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divinex.to
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
@@ -121,7 +125,6 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
-0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
@@ -132,25 +135,22 @@
 0.0.0.0 dulkirmod.st
 0.0.0.0 dulkirsmod.net
 0.0.0.0 dwh.multidex.life
-0.0.0.0 dxa.multidex.life
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
 0.0.0.0 epanpano.com
-0.0.0.0 escrowbank.co
 0.0.0.0 exo-api.tf
-0.0.0.0 exq.messag.life
 0.0.0.0 fable-shine.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 familyaddons.com
+0.0.0.0 farmhelper.org
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
-0.0.0.0 files.8weeksaverage.xyz
+0.0.0.0 firmamentskyblock.ru
 0.0.0.0 first-security-verden.de
 0.0.0.0 flicargo.com
 0.0.0.0 floppaclient.com
@@ -164,7 +164,6 @@
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
-0.0.0.0 fz.tiansys.cn
 0.0.0.0 gabyagozetim.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 garden-82.com
@@ -176,15 +175,17 @@
 0.0.0.0 groverudder12.com
 0.0.0.0 grupomcperu.com
 0.0.0.0 gutando.com
+0.0.0.0 hagosuro.lc
+0.0.0.0 hanasrmt.ca
 0.0.0.0 handsorneindo.com
 0.0.0.0 harmeetmotors.com
 0.0.0.0 hasalltalent.com
 0.0.0.0 haven-post.com
-0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 hotelhungry.com
+0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 ibidasjohnnraplc.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 igra123.com
@@ -194,6 +195,7 @@
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
+0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
@@ -216,6 +218,7 @@
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 londonairportstransfer.co.uk
+0.0.0.0 lorelion.cloud
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.com
@@ -226,8 +229,10 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 makemewin.club
 0.0.0.0 malupieng.com.br
+0.0.0.0 mandarin.net.au
 0.0.0.0 maple30.com
 0.0.0.0 marlowclient.com
+0.0.0.0 meteorclient.us
 0.0.0.0 meteorclients.com
 0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mibd.org
@@ -238,7 +243,6 @@
 0.0.0.0 mogimall.com
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
-0.0.0.0 multiplay.at
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
@@ -261,14 +265,14 @@
 0.0.0.0 outpost.co.ke
 0.0.0.0 oz-courses.com
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panamgroup.com.pe
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pee-files.nl
 0.0.0.0 pfatrivandrum.org
-0.0.0.0 photolivebook.pro
 0.0.0.0 pictureurl.com
-0.0.0.0 play.nopixel-rp.ir
+0.0.0.0 pingl.vip
 0.0.0.0 polarclient.net
 0.0.0.0 polinex-client.com
 0.0.0.0 polinex.org
@@ -277,22 +281,24 @@
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 project0.cc
 0.0.0.0 public.demo.securecloudsandbox.com
+0.0.0.0 publiempresa.es
+0.0.0.0 purelypulse.media
 0.0.0.0 pvphood.cc
 0.0.0.0 pvsa.gxfugy.cn
+0.0.0.0 qcxitong.xyz
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 quillchant14.com
-0.0.0.0 r3lzu9.fernthema.shop
 0.0.0.0 ramirex.ro
 0.0.0.0 razao.pt
 0.0.0.0 rcf.co.mz
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
+0.0.0.0 refining.qpon
 0.0.0.0 reifenquick.de
-0.0.0.0 reservphotoinstay.one
-0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
+0.0.0.0 rigmod.net
 0.0.0.0 robertrowe.com
 0.0.0.0 roboth.ir
 0.0.0.0 royalindiancurryclub.com
@@ -320,6 +326,7 @@
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
 0.0.0.0 skyblock-extras.org
+0.0.0.0 skymods.download
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
 0.0.0.0 southwindsfineart.com
@@ -328,11 +335,11 @@
 0.0.0.0 srsorvete.com.br
 0.0.0.0 stanarcservice.com
 0.0.0.0 star.zcnet.net
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stellaspicy.org
-0.0.0.0 streammobs.com
 0.0.0.0 sugarfreedcup.co.za
 0.0.0.0 support.clz.kr
 0.0.0.0 sushiandpoke.pt
@@ -362,7 +369,6 @@
 0.0.0.0 tmcksa.com
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 transportfadila.com
@@ -373,7 +379,6 @@
 0.0.0.0 tycons.com
 0.0.0.0 uber-joeleasing.de
 0.0.0.0 universami.ge
-0.0.0.0 unoplayy.com
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -387,7 +392,6 @@
 0.0.0.0 vrajras.com
 0.0.0.0 w.zhzy999.net
 0.0.0.0 w5q.eu
-0.0.0.0 wda.messag.life
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wicreset.online
 0.0.0.0 wicresetconnect.com
@@ -409,13 +413,14 @@
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.beschaffungszentrale.de
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
+0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.controliumbt.com
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.duelvalenza.it
-0.0.0.0 www.easybillingsolutions.xyz
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
@@ -426,12 +431,14 @@
 0.0.0.0 www.krause-fahrzeuge.de
 0.0.0.0 www.lehmann-autohaus.de
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.meteoraddons.net
 0.0.0.0 www.msud148.com
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.notbak.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
+0.0.0.0 www.owr4u.com
 0.0.0.0 www.pointtohealth.com
 0.0.0.0 www.porvootransitioncare.com
 0.0.0.0 www.reifenquick.de
@@ -449,11 +456,11 @@
 0.0.0.0 www.vergabe-zentrale.de
 0.0.0.0 www.vuelaviajero.com
 0.0.0.0 www.website.mypetapp.co.za
+0.0.0.0 www.wurstclient.org
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 xeno.baby
-0.0.0.0 xeno.watch
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
 0.0.0.0 xn--yh4bx88a.com
@@ -463,7 +470,6 @@
 0.0.0.0 youtransfer.net
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
-0.0.0.0 zimzar.site
 0.0.0.0 zumvu.net
 0.0.0.0 zycdjz.com
 

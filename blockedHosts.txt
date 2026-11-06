@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-11-05
+#UPDATED AT 2026-11-06
 
 # ============================================================
 # SECURITY
@@ -16,14 +16,14 @@
 0.0.0.0 434f06c-geik4j16cf-d1fa-73d9f.acutelyunfailing.cc
 0.0.0.0 4eclient.com
 0.0.0.0 6sim.vip
-0.0.0.0 a.g6.wtf
 0.0.0.0 acc.jiangsujiaxue.com
+0.0.0.0 acc.munber.life
 0.0.0.0 acms.saleseos.com
 0.0.0.0 acutelyunfailing.cc
 0.0.0.0 adcentral.com.mx
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
-0.0.0.0 adv.dailytechinsight.com
+0.0.0.0 aegic.top
 0.0.0.0 aetherius.live
 0.0.0.0 aftelecom.com.br
 0.0.0.0 aidlifempowerment.com
@@ -34,19 +34,22 @@
 0.0.0.0 allendostmen.com
 0.0.0.0 alpme.com
 0.0.0.0 alternativas.ru
+0.0.0.0 antibotchecker.pro
+0.0.0.0 anvil13.com
 0.0.0.0 api.stellarcedar.live
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
+0.0.0.0 argon-client.com
 0.0.0.0 artalivedesign.com
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
 0.0.0.0 auntieschaikhana.co.uk
 0.0.0.0 avidhosting.uk
 0.0.0.0 backupso.com
-0.0.0.0 badmonner.s.gy
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
+0.0.0.0 bergdorfgoodmanbag.com
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
@@ -55,7 +58,6 @@
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
-0.0.0.0 bot.lithium.zone
 0.0.0.0 briannacorporation.com
 0.0.0.0 bridge73.com
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -114,12 +116,11 @@
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dmoneii.com
-0.0.0.0 dodiihome.com
 0.0.0.0 domainmob.com
 0.0.0.0 donkeytourscroatia.com
+0.0.0.0 donutsmplarp.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.stellarcedar.live
 0.0.0.0 download.bitbrowser-cn.cyou
 0.0.0.0 download.caihong.com
@@ -132,23 +133,24 @@
 0.0.0.0 draft-loop.com
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com
+0.0.0.0 dulivo.vu
 0.0.0.0 duller.qpon
 0.0.0.0 dynga.pl
 0.0.0.0 easyfiles.cc
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
-0.0.0.0 en.taichuan.com
 0.0.0.0 epanpano.com
 0.0.0.0 exo-api.tf
 0.0.0.0 fable-shine.com
 0.0.0.0 fakers.co.jp
+0.0.0.0 fcitantibot.pro
+0.0.0.0 fcmelle.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 fern46.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
-0.0.0.0 files.mcclients.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 flexsportpools.com
 0.0.0.0 flicargo.com
@@ -168,8 +170,6 @@
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 garden-82.com
 0.0.0.0 geoxsecurity.ro
-0.0.0.0 gestroom.it
-0.0.0.0 getreroll.cc
 0.0.0.0 globalbank.us
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 griffcar.com.br
@@ -186,16 +186,14 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hseda.com
-0.0.0.0 hya.codedevfuture.buzz
-0.0.0.0 icecheats.space
 0.0.0.0 icoffeecloud.com
 0.0.0.0 igra123.com
 0.0.0.0 im-quirky.com
 0.0.0.0 impectorinternational.com
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 ircftp.net
 0.0.0.0 irm.st
 0.0.0.0 isiore.com.co
+0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
@@ -211,18 +209,15 @@
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 leisureconnecting.com
-0.0.0.0 lepafonso.bz
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 livinginpurpose.co.za
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 londonairportstransfer.co.uk
+0.0.0.0 lsmdngnakjbgazxv.com
 0.0.0.0 luizmatoso.com.br
-0.0.0.0 lumacrea.com
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
-0.0.0.0 macos.vettasy.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 maildeveloper.site
 0.0.0.0 makemewin.club
@@ -260,7 +255,6 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
-0.0.0.0 okp.dailytechinsight.com
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 opengraph.vip
 0.0.0.0 opensolutions.sbs
@@ -269,12 +263,14 @@
 0.0.0.0 oz-courses.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 pannki.com
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pebbleanthem.shop
 0.0.0.0 pee-files.nl
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 pictureurl.com
+0.0.0.0 plugin-dex.forum
 0.0.0.0 polinex.org
 0.0.0.0 porterneuman.mx
 0.0.0.0 postelnini.mk
@@ -285,7 +281,7 @@
 0.0.0.0 publiempresa.es
 0.0.0.0 pulgarinrealtor.com
 0.0.0.0 purelypulse.media
-0.0.0.0 purxiyclient.org
+0.0.0.0 purxiy.org
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 quillchant14.com
@@ -295,13 +291,13 @@
 0.0.0.0 rcf.co.mz
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
+0.0.0.0 recon-rival.nyc.boxd.sh
 0.0.0.0 records.dennisign.se
 0.0.0.0 reifenquick.de
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
-0.0.0.0 robinhood.media
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
@@ -311,8 +307,8 @@
 0.0.0.0 salikae.store
 0.0.0.0 samiksha.com.sg
 0.0.0.0 satgob-mx.shop
-0.0.0.0 sc.c1s.su
 0.0.0.0 scanbot.me
+0.0.0.0 schemaleap1.com
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
 0.0.0.0 scrroeder.com
@@ -371,9 +367,9 @@
 0.0.0.0 thisisafalsepositive.st
 0.0.0.0 tiacreation.club
 0.0.0.0 tmcksa.com
+0.0.0.0 tools.lumma.cy
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
@@ -383,6 +379,7 @@
 0.0.0.0 twu-hwt.org
 0.0.0.0 uber-joeleasing.de
 0.0.0.0 unoparty.online
+0.0.0.0 unostroagesdeel.cc
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -396,6 +393,7 @@
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
+0.0.0.0 vstcl.com
 0.0.0.0 w.zhzy999.net
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wicreset.online
@@ -404,6 +402,7 @@
 0.0.0.0 winbitbrowser.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wittenhorst.eu
+0.0.0.0 wppluginindex.com
 0.0.0.0 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 0.0.0.0 www.2goelectricity.cloud
 0.0.0.0 www.ardguisser.com
@@ -425,6 +424,7 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
+0.0.0.0 www.jubex.eu
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.maplezenith.live
@@ -451,12 +451,10 @@
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com
-0.0.0.0 www.zhikey.com
 0.0.0.0 xeno.baby
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
 0.0.0.0 xn--yh4bx88a.com
-0.0.0.0 xorados.com
 0.0.0.0 xshop.com.tr
 0.0.0.0 yakult-hk.com
 0.0.0.0 youreonlymassive.com

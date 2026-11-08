@@ -1,6 +1,6 @@
 # BEGIN WISDOM_TRACKER
 #SIRIUS-SUPPORT - DNS BLOCK LIST
-#UPDATED AT 2026-11-07
+#UPDATED AT 2026-11-08
 
 # ============================================================
 # SECURITY
@@ -19,7 +19,9 @@
 0.0.0.0 acc.munber.life
 0.0.0.0 acd.munber.life
 0.0.0.0 acms.saleseos.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 activation-gateway.cc
+0.0.0.0 activelypartnering.com
 0.0.0.0 adcentral.com.mx
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
@@ -47,7 +49,7 @@
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
-0.0.0.0 bergdorfgoodmanbag.com
+0.0.0.0 bipfdjnk.com
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
@@ -84,8 +86,8 @@
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloudflareconfirm.com
 0.0.0.0 clubdetiroelpicarcho.com
-0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
+0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
 0.0.0.0 coreprotector.org
 0.0.0.0 cpc188.day
@@ -96,7 +98,6 @@
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 cube-60.com
-0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 damiancollier.com
 0.0.0.0 data.yhydl.com
@@ -109,12 +110,13 @@
 0.0.0.0 detek.com.mx
 0.0.0.0 dezcom.com
 0.0.0.0 dfd.zhzy999.net
+0.0.0.0 dfgjnisdjfgnisjdfng.online
 0.0.0.0 dimonpert.com
 0.0.0.0 dinamikakargo.com
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dmoneii.com
 0.0.0.0 domainmob.com
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 donutsmplarp.com
@@ -137,6 +139,7 @@
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
+0.0.0.0 en.taichuan.com
 0.0.0.0 epanpano.com
 0.0.0.0 estudio315.com.br
 0.0.0.0 exo-api.tf
@@ -144,11 +147,12 @@
 0.0.0.0 fakers.co.jp
 0.0.0.0 fc.yuo123.cc
 0.0.0.0 fcitantibot.pro
-0.0.0.0 fcmelle.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
+0.0.0.0 firstalwayshere.com
 0.0.0.0 flexsportpools.com
 0.0.0.0 flicargo.com
 0.0.0.0 flyingmutts.com
@@ -160,14 +164,13 @@
 0.0.0.0 fucktermedfir.st
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
+0.0.0.0 fz.tiansys.cn
 0.0.0.0 gabyagozetim.com
-0.0.0.0 gaenterprises.in
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 garden-82.com
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 globalbank.us
 0.0.0.0 greenf.alexion.rs
-0.0.0.0 griffcar.com.br
 0.0.0.0 groverudder12.com
 0.0.0.0 grupomcperu.com
 0.0.0.0 gutando.com
@@ -181,6 +184,7 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 houseless.com.br
+0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
 0.0.0.0 i-ticket-az.site
 0.0.0.0 icoffeecloud.com
@@ -190,8 +194,10 @@
 0.0.0.0 ircftp.net
 0.0.0.0 irm.st
 0.0.0.0 isiore.com.co
+0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
 0.0.0.0 jawaratekno.com
+0.0.0.0 jdaram.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jumalputty.com
@@ -204,6 +210,7 @@
 0.0.0.0 konsor.ru
 0.0.0.0 kral.shaderzone.org
 0.0.0.0 kronemedia.de
+0.0.0.0 ktrced.top
 0.0.0.0 lake-90.com
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
@@ -214,6 +221,7 @@
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lsmdngnakjbgazxv.com
 0.0.0.0 luizmatoso.com.br
+0.0.0.0 lumacrea.com
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
@@ -234,24 +242,21 @@
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
 0.0.0.0 moniquejhingon.com
-0.0.0.0 mothertouch.ac.zw
 0.0.0.0 mrsweaterltd.com
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mx9x.com
 0.0.0.0 mysura.it
-0.0.0.0 n.vs108.com
 0.0.0.0 nagl.com.pg
 0.0.0.0 ncxps.com
 0.0.0.0 nest-52.com
 0.0.0.0 noithaticon.vn
-0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nova-75.com
 0.0.0.0 novasms.com.mx
+0.0.0.0 npnl34ww.xyz
 0.0.0.0 obohands.com
 0.0.0.0 oedturk.com
-0.0.0.0 ohwcadvisor.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
@@ -261,11 +266,9 @@
 0.0.0.0 oz-courses.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 pannki.com
 0.0.0.0 parallelchain-labs.com
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
-0.0.0.0 pebbleanthem.shop
 0.0.0.0 pee-files.nl
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 physioga.net
@@ -281,6 +284,7 @@
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 publiempresa.es
 0.0.0.0 pulgarinrealtor.com
+0.0.0.0 pumpadmin.fun
 0.0.0.0 purelypulse.media
 0.0.0.0 purxiy.org
 0.0.0.0 pvsa.gxfugy.cn
@@ -293,13 +297,13 @@
 0.0.0.0 rcf.co.mz
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
-0.0.0.0 recon-rival.nyc.boxd.sh
 0.0.0.0 records.dennisign.se
 0.0.0.0 reifenquick.de
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
+0.0.0.0 romeopirlanta.com
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
@@ -316,7 +320,6 @@
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
-0.0.0.0 secure-link.club
 0.0.0.0 semencepourlavie.org
 0.0.0.0 seohumanoid.com
 0.0.0.0 seputartuban.com
@@ -334,11 +337,10 @@
 0.0.0.0 srsorvete.com.br
 0.0.0.0 stanarcservice.com
 0.0.0.0 star.zcnet.net
-0.0.0.0 static.ilclock.com
-0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stellaspicy.org
+0.0.0.0 streammobs.com
 0.0.0.0 sugarfreedcup.co.za
 0.0.0.0 sugarfreedcupcake.co.za
 0.0.0.0 support.clz.kr
@@ -357,7 +359,6 @@
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 theholidayroads.com
-0.0.0.0 thelkfklef.com
 0.0.0.0 thementordirectory.com
 0.0.0.0 thisisafalsepositive.st
 0.0.0.0 tiacreation.club
@@ -370,20 +371,18 @@
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
 0.0.0.0 twu-hwt.org
-0.0.0.0 unoparty.online
-0.0.0.0 unostroagesdeel.cc
-0.0.0.0 upaicdn.xinmei365.com
+0.0.0.0 uni.site.je
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.neewsoo.com
 0.0.0.0 uu.v2raynapps.com.cn
+0.0.0.0 v5q.eu
 0.0.0.0 veryboys.com
 0.0.0.0 vine-linen.com
 0.0.0.0 visam.info
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
-0.0.0.0 vstcl.com
 0.0.0.0 w.zhzy999.net
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wicreset.online
@@ -409,12 +408,13 @@
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.duelvalenza.it
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.generationalwealthtraders.com
 0.0.0.0 www.gestroom.it
+0.0.0.0 www.grg1n.com
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
-0.0.0.0 www.jubex.eu
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.medises.co.kr
@@ -424,7 +424,6 @@
 0.0.0.0 www.notbak.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
-0.0.0.0 www.payap.ir
 0.0.0.0 www.pointtohealth.com
 0.0.0.0 www.porvootransitioncare.com
 0.0.0.0 www.reifenquick.de
@@ -435,6 +434,7 @@
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.test.peperoncinochepassione.it
 0.0.0.0 www.tmcksa.com
+0.0.0.0 www.vcc-data.bond
 0.0.0.0 www.vexonmods.shop
 0.0.0.0 www.vuelaviajero.com
 0.0.0.0 www.website.mypetapp.co.za
